@@ -42,7 +42,8 @@
           {% if site.blog_name %}
           <!-- Blog -->
           <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/blog/' | relative_url }}">
+            <!-- <a class="nav-link" href="{{ '/blog/' | relative_url }}"> -->
+            <a class="nav-link" href="https://priyalaggarwal.wordpress.com">
               blog
               {% if page.title == "blog" %}
               <span class="sr-only">(current)</span>
@@ -50,6 +51,19 @@
             </a>
           </li>
           {% endif %}
+          {% if site.resume %}
+          <!-- Resume -->
+          <li class="nav-item {% if page.url contains 'resume' %}active{% endif %}">
+            <!-- <a class="nav-link" href="{{ '/blog/' | relative_url }}"> -->
+            <a class="nav-link" href="{{ '/assets/pdf/PriyalAggarwal_Resume.pdf' | prepend: site.baseurl | prepend: site.url }}">
+              resume
+              {% if page.title == "resume" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+          {% endif %}
+          <!-- <a class="page-link" href="{{ '/assets/pdf/PriyalAggarwal_Resume.pdf' | prepend: site.baseurl | prepend: site.url }}">resume</a> -->
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}

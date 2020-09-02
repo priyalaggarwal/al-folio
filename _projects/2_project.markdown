@@ -1,12 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
-importance: 2
+title: COVID-19 detection from Chest X-Ray images
+description: 
+img: /assets/img/chest-xray.jpeg
+importance: 1
 ---
 
-Every project has a beautiful feature showcase page.
+I devised a MobileNetV2 CNN based classifier to diagnose COVID-19, pneumonia, and viral fever cases from Chest X-Rays. Used transfer learning, data augmentation and upsampling techniques in Tensorflow to achieve 80% weighted accuracy.
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -74,4 +76,4 @@ Here's the code for the last row of images above:
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-```
+``` -->
