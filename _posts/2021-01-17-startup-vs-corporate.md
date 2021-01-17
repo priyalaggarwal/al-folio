@@ -8,7 +8,7 @@ description:
 
 <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/job1.jpg">
 
-Although the meme illustrates my feelings exactly, I felt very fortunate enough to receive multiple job offers in the middle of the pandemic. This blog post elaborates one of the difficult decisions I had to make in my job search and how I went going about it – choosing between a startup and a big company. In my case, it was the Machine Learning Engineer position at one of the few top tech companies (hereby called Chatter) and <a href="https://snorkel.ai/" target="blank">SnorkelAI</a>. 
+Although the meme illustrates my feelings exactly, I felt very fortunate enough to receive multiple job offers in the middle of the pandemic. This blog post elaborates one of the difficult decisions I had to make in my job search and how I went going about it – choosing between a startup and a big company. In my case, it was the Machine Learning Engineer position at one of the few top tech companies and <a href="https://snorkel.ai/" target="blank">SnorkelAI</a>. 
 <br><br>
 If you have a similar decision to make, or are thinking about whether to start your career with a startup or an established company, this might help!
 
@@ -54,13 +54,13 @@ I remember what <a href="https://twitter.com/chipro" target="blank">Chip Huyen</
 It is no question that the world judges you by a brand name – these days big brands offer money, safety and interesting work. However, if you are willing to forego the brand name for a few years to improve your skills, startups might be the place for you. 
 
 
-I ended up choosing Snorkel. It was a very difficult decision for me, particularly because I admire the work culture at Chatter. If we look at it from the perspective of Reinforcement Learning – as a question of exploration vs exploitation – I wanted to maximize exploration in the early stages of my career.
+I ended up choosing Snorkel. It was a very difficult decision for me, particularly because I admire the work culture at the big company. If we look at it from the perspective of Reinforcement Learning – as a question of exploration vs exploitation – I wanted to maximize exploration in the early stages of my career.
 
 <hr>
 
 ### Closing Notes 
 
-A few miscellaneous points (oof, another list!) that I wanted to mention - 
+A few miscellaneous points (oof, another list!) that I wanted to mention -
 
 1.	##### Privilege
 How privileged are you? I am fortunate to have a loving family who has my back and does not depend on me for bread and butter. 
@@ -71,3 +71,5 @@ While I have been feeling and emphasizing this throughout my (short) career, we 
 4.	##### It’s only a job
 <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/job2.jpg"> <br><br><br> 
 I got too involved in the decision-making process, thinking as if my life depended on this decision. Don’t make my mistake, either job won’t be the end of the world!
+
+<br><br>
