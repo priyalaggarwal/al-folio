@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  Startup vs Established Company – how I went about choosing my first job after MSCS
-date:   2021-01-16 16:40:16
+title:  Startup vs Established Company – how I went about choosing my first job after Master's
+date:   2021-01-17 16:40:16
 description: 
 ---
 
 <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/job1.jpg">
 
-Although the meme illustrates my feelings exactly, I felt very fortunate enough to receive multiple job offers in the middle of the pandemic. This blog post illustrates one of the difficult decisions I had to make in my job search and how I went going about it – choosing between a startup and big company. In my case, it was the Machine Learning Engineer position at Twitter and SnorkelAI. 
+Although the meme illustrates my feelings exactly, I felt very fortunate enough to receive multiple job offers in the middle of the pandemic. This blog post elaborates one of the difficult decisions I had to make in my job search and how I went going about it – choosing between a startup and big company. In my case, it was the Machine Learning Engineer position at one of the few top tech companies (hereby called Chatter) and <a href="https://snorkel.ai/" target="blank">SnorkelAI</a>. 
 
 ### High level priorities
 Before meditating on the details, I want to set my high-level priorities straight (listed in decreasing order here) -  
 1.	##### Immigration
-I am an international student and need an H1b visa to be sponsored by the employer to continue my employment in the US. 
+I am an international student and need an H-1B visa to be sponsored by the employer to continue my employment in the US. 
 2.	##### Maximizing my learning experience
 For my first job after master’s, my motivation is to maximize my learning experience and build transferrable skills.
 3.	##### Stability of the company
@@ -26,7 +26,7 @@ I want to mention here that the priorities vary for different people and for eve
 
 ### Seeking advice
 
-1.	##### Google Search
+1.	##### World Wide Web
 A lot has been written about the age-old debate of working at a startup vs a big company. I found <a href="http://www.paulgraham.com/articles.html" target="blank">Paul Graham’s essays </a> insightful and pro-startups. <a href="https://danluu.com/startup-tradeoffs/" target="blank">Dan Luu’s take</a> provides a contrarian viewpoint; much needed to prevent someone else from painting a rosy picture in your eyes.
 2.	##### HackerNews
 I turned to not-so-recent discussions on the Orange Website to get public opinion on the topic. I went through lots of comments, since every person’s experience is different. I just wanted to ensure that I am not engulfed in either failure or survivorship bias. 
@@ -49,7 +49,7 @@ I remember what <a href="https://twitter.com/chipro" target="blank">Chip Huyen</
 It is no question that the world judges you by a brand name – these days big brands offer money, safety and interesting work. However, if you are willing to forego the brand name for a few years to improve your skills, startups might be the place for you.
 
 
-I ended up choosing Snorkel. It was a very difficult decision for me, particularly because I admire the work culture at Twitter. If we look at it from the perspective of Reinforcement Learning – as a question of exploration vs exploitation – I wanted to maximize exploration in the early stages of my career.
+I ended up choosing Snorkel. It was a very difficult decision for me, particularly because I admire the work culture at Chatter. If we look at it from the perspective of Reinforcement Learning – as a question of exploration vs exploitation – I wanted to maximize exploration in the early stages of my career.
 
 <hr>
 
