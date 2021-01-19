@@ -8,7 +8,7 @@ description:
 
 <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/job1.jpg">
 
-Although the meme illustrates my feelings exactly, I felt very fortunate enough to receive multiple job offers in the middle of the pandemic. This blog post elaborates one of the difficult decisions I had to make in my job search and how I went going about it – choosing between a startup and a big company. In my case, it was the Machine Learning Engineer position at one of the few top tech companies and <a href="https://snorkel.ai/" target="blank">SnorkelAI</a>. 
+Although the meme illustrates my feelings exactly, I felt very fortunate to receive multiple job offers in the middle of the pandemic. This blog post elaborates one of the difficult decisions I had to make in my job search and how I went going about it – choosing between a startup and a big company. In my case, it was the Machine Learning Engineer position at one of the few top tech companies and <a href="https://snorkel.ai/" target="blank">SnorkelAI</a>. 
 <br><br>
 If you have a similar decision to make, or are thinking about whether to start your career with a startup or an established company, this might help!
 
