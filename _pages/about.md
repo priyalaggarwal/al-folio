@@ -13,10 +13,11 @@ news: false
 social: true
 ---
 
+I am working as a Machine Learning Engineer at a Silicon Valley startup called <a href='https://snorkel.ai/' target='blank'> Snorkel AI</a>. 
 
-I am a graduate student at [Columbia University](http://www.cs.columbia.edu/){:target="\_blank"}, studying Computer Science with a specialization in Machine Learning. I am graduating in December 2020, and am looking for full-time jobs.
+I recently graduated from [Columbia University](http://www.cs.columbia.edu/){:target="\_blank"} with a Master's degree in Computer Science with a Machine Learning specialization.
 
-This summer, I worked as an intern with [Amazon Robotics. ](https://www.amazonrobotics.com/){:target="\_blank"}
+Past summer, I worked as an intern with [Amazon Robotics. ](https://www.amazonrobotics.com/){:target="\_blank"}
 
 Prior to this, I worked as a Software Engineer at [Microsoft India](https://www.microsoft.com/en-in/about/){:target="\_blank"} from 2018-2019 in Cloud and Enterprise, specifically [Azure Backup](https://docs.microsoft.com/en-us/azure/backup/backup-overview){:target="\_blank"}. I completed my Bachelor's in Computer Science from [Delhi Technological University](http://dtu.ac.in/){:target="\_blank"} in May 2018.
 
